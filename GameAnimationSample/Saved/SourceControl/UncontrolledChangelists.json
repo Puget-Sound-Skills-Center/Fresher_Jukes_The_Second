@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/W5/HT80D3ON1BGUPHIJQJWLLW.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AY/MLQ11SS5HZZEXVTYJCO0OO.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/JGI3HEF9XU9O0LZV5JLL3B.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
@@ -19,7 +13,23 @@
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
-				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/Dense/PSD_Dense_Jumps.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/CHT_AnimationsForStateMachine.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/PSD_SM_LocoTransitions.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_LL_Start_Lfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_LL_Start_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/Jump/M_Neutral_Jump_LL_Start_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/Jump/M_Neutral_Jump_LL_Start_Lfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_LL_Start_Rfoot1.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_RL_Start_Lfoot.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/W5/HT80D3ON1BGUPHIJQJWLLW.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AY/MLQ11SS5HZZEXVTYJCO0OO.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/JGI3HEF9XU9O0LZV5JLL3B.uasset"
 			]
 		}
 	]
