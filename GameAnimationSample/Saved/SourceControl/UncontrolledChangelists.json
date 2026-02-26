@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_F_Start_Cliff_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/Jump/M_Neutral_Jump_F_Start_Cliff_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/Dense/PSD_Dense_Jumps.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/PSD_SM_LocoTransitions.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/CHT_AnimationsForStateMachine.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_F_Start_Run_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/Jump/M_Neutral_Jump_F_Start_Run_Rfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_F_Land_Roll_Lfoot.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/Jump/M_Neutral_Jump_F_Land_Roll_Lfoot.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/BPInterfaces/GameModeBPInterface.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset"
