@@ -6,10 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/W5/HT80D3ON1BGUPHIJQJWLLW.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AY/MLQ11SS5HZZEXVTYJCO0OO.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/BPInterfaces/GameModeBPInterface.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/AY/MLQ11SS5HZZEXVTYJCO0OO.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/NF/JGI3HEF9XU9O0LZV5JLL3B.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
