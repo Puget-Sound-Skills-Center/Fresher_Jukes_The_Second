@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/WenzinOL/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/W5/HT80D3ON1BGUPHIJQJWLLW.uasset",
+				"C:/Users/WenzinOL/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/_Custom/M_Neutral_Jump_F_Start_Cliff_Rfoot.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/Dense/PSD_Dense_Jumps.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Characters/UEFN_Mannequin/Animations/ExperimentalStateMachineData/PSD_SM_LocoTransitions.uasset",
