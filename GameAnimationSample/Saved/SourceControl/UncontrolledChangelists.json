@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/UserWidget/MainHUD_UI.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/Obstacle1_BP1.uasset",
 				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/Obstacle1_BP2.uasset",
