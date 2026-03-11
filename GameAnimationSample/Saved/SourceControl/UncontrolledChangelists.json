@@ -5,10 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/BPInterfaces/GameModeBPInterface.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/UserWidget/GameOver.uasset"
+				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
