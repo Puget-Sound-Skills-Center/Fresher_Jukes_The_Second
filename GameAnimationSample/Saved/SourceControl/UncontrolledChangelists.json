@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/W5/HT80D3ON1BGUPHIJQJWLLW.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/La_Barricade.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/La_Container.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/La_TireStack.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/La_BarrelBundle.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/BPInterfaces/CharacterBPInterface.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Obstacles/BaseObstacle_BP.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/5023012/Downloads/GameAnimationSample/Fresher_Jukes_The_Second/GameAnimationSample/Content/UserWidget/GameOver.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/WenzinOL/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/Blueprints/Floor/Floor_BP.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/UserWidget/MainHUD_UI.uasset",
 				"C:/Users/5022810/Documents/GitHub/Fresher_Jukes_The_Second/GameAnimationSample/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
